@@ -4,7 +4,7 @@ class Footer extends Component {
     return (
       <footer>
         <div>
-          Footer component
+          <p class="text-center">All Rights Reserved &reg;</p>
         </div>
       </footer>
     )
